@@ -1,0 +1,7 @@
+flask
+flask-cors
+gunicorn
+openai
+python-dotenv
+requests
+baidusearch
